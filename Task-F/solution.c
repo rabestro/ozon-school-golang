@@ -6,7 +6,7 @@ int main() {
     int target;
     fscanf(fs, "%d", &target);
     unsigned char bitset[1 + target / 8];
-	memset(bitset, 0 , sizeof bitset);
+    memset(bitset, 0 , sizeof bitset);
 
     int isFound = 0;
 
