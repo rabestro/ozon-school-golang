@@ -1,2 +1,3 @@
-# ozon_Go_school
+# Отбор на Школу Go разработки Ozon
+
 Task to join Go School 
